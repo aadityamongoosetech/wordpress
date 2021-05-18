@@ -1,0 +1,13 @@
+/*
+Theme Name:test
+Decription:blog,shop
+Author:wsctech
+version:1.o 
+
+
+*/
+.nav
+{
+    display:flex;
+    margin: 100px;
+}
